@@ -3,3 +3,15 @@
 # GuCATs'Blog Assets Repository
 
 </div>
+
+## Blog
+
+URL: <https://goo-aw233.github.io>
+
+## Assets Repo 1
+
+URL: <https://github.com/Goo-aw233/BlogAssets1>
+
+## Assets Repo 2
+
+URL: <https://github.com/Goo-aw233/BlogAssets2>
